@@ -1,2 +1,2 @@
 # All-Lives-Matter
-A chrome extension that brings some sense to our world
+A chrome extension that brings some sense to this world
